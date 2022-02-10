@@ -3,8 +3,7 @@ Android Custom CountDownView
 
 <p align="center">
   Visit Count<br>
-  <img src="https://profile-counter.glitch.me/RDSunhy-
-CountDownView/count.svg" />
+  <img src="https://profile-counter.glitch.me/RDSunhy-CountDownView/count.svg" />
 </p>
 
 ### Import
