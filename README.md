@@ -14,11 +14,11 @@ implementation 'com.github.RDSunhy:CountDownView:v1.0.0'
 
 ### Sample
 
-<img src="./images/sample.gif" style="zoom:20%;" />
+<img src="./images/sample.gif" style="zoom:20%;width:300px;" />
 
 
 
-<img src="./images/img1.jpg" style="zoom:20%;" />
+<img src="./images/img1.jpg" style="zoom:20%;width:300px;" />
 
 ### Xml
 
