@@ -10,7 +10,7 @@ CountDownView/count.svg" />
 ### Import
 
 ```groovy
-implementation 'com.github.RDSunhy:CountDownView:1.0.0'
+implementation 'com.github.RDSunhy:CountDownView:v1.0.0'
 ```
 
 ### Sample
